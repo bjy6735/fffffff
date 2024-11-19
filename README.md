@@ -8,8 +8,8 @@
 
   Hi my name is JIYOON. YOON.
 
-  
-
   </div>
+
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/bjy6735/github-readme-stats)
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](jiyoon6735@gmail.com)
