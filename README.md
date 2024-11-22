@@ -10,32 +10,19 @@
 
 -----
 
-
-
-## :wind_chime: basic information
+## :wind_chime: basic information :loop: :bulb:
 I'll introduce myself.
-* **my age** : 20(korean age)
-* **my major** : ART&TECH
-* **where i live** : Korea
+* **my age** : 20 ( 2005~ ) _______ :bulb:_____:loop::loop::loop:
+* **my major** : ART&TECH ____ :bulb:_:bulb: ______:loop:
+* **where i live** : Korea ______ :bulb:____:bulb: _____:loop:
 
 ## :chicken: About...
 | :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
 |:----------:|:-----------:|:-----------:|
-| 음악 알고리즘 | 데이터 2    | 데이터 3   |
-| 인터렉티브 아트 | 데이터 5    | 데이터 6   |
-### :sun_with_face: My Interests
-나는 이런 분야에 관심이 있다. 
-* 음악 알고리즘
-* 인터렉티브 아트
+| music algorithm | achieving independence | mastering stable diffusion |
+|  interactive art | belonging to the music market ( in any way possible ) | photato |
 
-### :full_moon_with_face: My Goals
-
-### :new_moon_with_face: My Plans
-
-## 계획하고 있는 것
-나는 음악에 관심이 많다. 
-
-## Conect
+## Conect - me
 
 * Gmail : jiyoon6735@gmail.com
 * Instagram : @vllolollv
@@ -50,7 +37,7 @@ I'll introduce myself.
 
 
 
-</div>
+<div align=center>
 
 [![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735)
 	
