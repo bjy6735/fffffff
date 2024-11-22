@@ -20,7 +20,7 @@ I'll introduce myself.
 * **where i grow up** : jeonju, Korea
 
 ## :sun_with_face: Interests
-I have many things I like, and they share a few characteristics.
+
 
 ## 계획하고 있는 것
 나는 음악에 관심이 많다. 
