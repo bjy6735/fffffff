@@ -25,8 +25,24 @@ I have many things I like, and they share a few characteristics.
 ## 계획하고 있는 것
 나는 음악에 관심이 많다. 
 
-  </div>
+## Conect
 
-   [![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/bjy6735/github-readme-stats)
+
+
+* Gmail : jiyoon6735@gmail.com
+* Instagram : @vlollolv
+
+<div align=center>
+	
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](jiyoon6735@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
+	
+</div>
+
+
+
+</div>
+
+[![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735)
 	
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](jiyoon6735@gmail.com)
