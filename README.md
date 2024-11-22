@@ -19,10 +19,10 @@ I'll introduce myself.
 * **where i live** : Korea
 
 ## :chicken: About...
-| sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
+| :sun_with_face: My Interests | :full_moon_with_face: My Goals | :new_moon_with_face: My Plans |
 |:----------:|:-----------:|:-----------:|
-| 데이터 1  | 데이터 2    | 데이터 3   |
-| 데이터 4  | 데이터 5    | 데이터 6   |
+| 음악 알고리즘 | 데이터 2    | 데이터 3   |
+| 인터렉티브 아트 | 데이터 5    | 데이터 6   |
 ### :sun_with_face: My Interests
 나는 이런 분야에 관심이 있다. 
 * 음악 알고리즘
