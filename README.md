@@ -14,10 +14,10 @@
 
 ## :wind_chime: basic information
 I'll introduce myself.
-* my age : 20(korean age)
-* my major : ART&TECH
-* where i live : Anseung city, Korea
-* where i grow up : jeonju, Korea
+* **my age** : 20(korean age)
+* **my major** : ART&TECH
+* **where i live** : Anseung city, Korea
+* **where i grow up** : jeonju, Korea
 
 ## :sun_with_face: Interests
 I have many things I like, and they share a few characteristics.
@@ -33,7 +33,7 @@ I have many things I like, and they share a few characteristics.
 <div align=center>
 	
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](mailto:jiyoon6735@gmail.com)
- [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/@vlollolv)](https://instagram.com/@vllolollv)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vlollolv)](https://instagram.com/vllolollv)
 
 	
 </div>
