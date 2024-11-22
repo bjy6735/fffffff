@@ -1,14 +1,15 @@
 
-# Hi I'm JIYOON. YOON.
+# Hi :fish: I'm JIYOON :beetle: call me YOON :tropical_fish:
 
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
-I don't know what to do for this page, but i'll write write.
+<div align=center>
 
-## 1.I'm majoring in art&tech
+<img src = "https://drive.google.com/file/d/1-MchIOI-uN6VADCxm4gJ_2D4xmQ8D78D/view?usp=drive_link">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+
+</div>
+
+## 1. I'm majoring in art&tech
 
 
   </div>
