@@ -16,11 +16,17 @@
 I'll introduce myself.
 * **my age** : 20(korean age)
 * **my major** : ART&TECH
-* **where i live** : Anseung city, Korea
-* **where i grow up** : jeonju, Korea
+* **where i live** : Korea
 
-## :sun_with_face: Interests
+## :chicken: About...
+### :sun_with_face: My Interests
+나는 이런 분야에 관심이 있다. 
+* 음악 알고리즘
+* 인터렉티브 아트
 
+### :full_moon_with_face: My Goals
+
+### :new_moon_with_face: My Plans
 
 ## 계획하고 있는 것
 나는 음악에 관심이 많다. 
@@ -44,4 +50,4 @@ I'll introduce myself.
 
 [![Yoon's github stats](https://github-readme-stats.vercel.app/api?username=bjy6735)](https://github.com/bjy6735)
 	
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyoon6735@gmail.com)](jiyoon6735@gmail.com)
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@foe-xx6yx)](https://www.youtube.com/@foe-xx6yx)
